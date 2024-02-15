@@ -8,7 +8,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     how to store temporary data in Redis
     how to setup and use a background worker
 
-Requirements
+Requirements for this project
 
     Allowed editors: vi, vim, emacs, Visual Studio Code
     All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node (version 12.x.x)
